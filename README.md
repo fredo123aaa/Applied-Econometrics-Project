@@ -1,2 +1,2 @@
-# Applied Econometrics Project
-This
+# Applied-Econometrics-Project
+Project for Applied Econometrics
